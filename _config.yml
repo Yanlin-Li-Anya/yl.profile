@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "MSc Researcher"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Yanlin Li"
 description              : &description "MSc Health Psychology student in UCL"
@@ -25,9 +25,9 @@ author:
   avatar           : "yanlin_photo.jpg"
   name             : "Yanlin Li"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Institute of Epidemiology and Health Care"
   location         : "London, UK"
-  employer         : "Institute of Epidemiology and Health Care, UCL"
+  employer         : "UCL"
   uri              : # URL
   email            : "yanlin.li.24@ucl.ac.uk" 
 

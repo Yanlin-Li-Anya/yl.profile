@@ -23,13 +23,13 @@ repository               : "yanlin-li-anya/yl.profile"
 author:
   # Biographic information
   avatar           : "yanlin_photo.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Yanlin Li"
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "London, UK"
+  employer         : "Institute of Epidemiology and Health Care, UCL"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yanlin.li.24@ucl.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -52,7 +52,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/yanlin.li.020609"# Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "linkedin.com/in/yanlin-li-5a475a266" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
